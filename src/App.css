@@ -1,0 +1,33 @@
+/* src/App.css */
+
+/* 전체 애플리케이션 스타일 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.App header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+}
+
+.App footer {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
